@@ -1,0 +1,26 @@
+GitHub
+ - repositórios
+ - Criar um novo repositório
+ - Colocar nome para o repositório
+ - marcar publico
+ - marcar adicionar um arquivo README
+ - escolher a licença - Licneça MIT
+
+Em casa você terá que instalar o GIT
+ - Depois de intalado fazer 2 configurações
+ - Abrir o Git Bash
+	- inserir o nome do usuário 
+	   git config --global user.name "nome_do_GitHub"
+	- inserir o email do usuário
+	  git config --global user.email "email_do_GitHub"
+
+Clonar a pasta do GITHUB (repositório)
+ - criar uma pasta projetos (onde você quiser)
+ - abrir essa pasta; botão direito nessa pasta GIT BASH HERE
+ - digitar o comando: git clone (colar o link do GITHUB)
+ - Para colar, botão direito Paste
+ - enter 
+ - automaticamente será criada a pasta de lógica
+
+
+ 
